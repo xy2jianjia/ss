@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/xy2jianjia/ss/raw/main/tt.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://upload.jianshu.io/users/upload_avatars/4096235/59c6e31a-c805-4032-8f36-fdca597c3c68.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://upload.jianshu.io/users/upload_avatars/4096235/59c6e31a-c805-4032-8f36-fdca597c3c68.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.hundsun.gttk.test</string>
+				<key>bundle-version</key>
+				<string>1.2.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string></string>
+				<key>title</key>
+				<string>湖南财信Inhouse</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
